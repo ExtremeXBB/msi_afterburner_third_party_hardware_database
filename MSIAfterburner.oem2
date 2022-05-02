@@ -329,6 +329,14 @@ Desc                                    = KFA2 GTX 980 Ti HOF
 VDDC_Generic_Detection                  = 0
 VDDC_IR3595A_Detection			= 08h
 
+[VEN_10DE&DEV_17C8&SUBSYS_115110DE&REV_??]
+
+; GALAX GTX 980 Ti HOF
+
+Desc                                    = GALAX GTX 980 Ti HOF
+VDDC_Generic_Detection                  = 0
+VDDC_IR3595A_Detection			= 08h
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Custom design ZOTAC NVIDIA series
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
